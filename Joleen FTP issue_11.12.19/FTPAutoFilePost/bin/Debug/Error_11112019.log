@@ -1,0 +1,21 @@
+----------------------------------------------------------
+Date: 11/11/2019 12:47:50 AM
+Source: mscorlib
+Message: The process cannot access the file '\\vp-new\LocalUser\OMV\Outbound\11112019_CredData.txt' because it is being used by another process.
+Stack Trace:    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at FTPAutoFilePost.Program.Main(String[] args) in C:\Joleen FTP issue\FTPAutoFilePost\Program.cs:line 63
+
+----------------------------------------------------------
+Date: 11/11/2019 3:13:56 AM
+Source: FTPAutoFilePost
+Message: No Plan ID Supplied.
+Stack Trace:    at FTPAutoFilePost.Program.Main(String[] args) in C:\Joleen FTP issue\FTPAutoFilePost\Program.cs:line 86
+
+----------------------------------------------------------
+Date: 11/11/2019 3:21:51 AM
+Source: FTPAutoFilePost
+Message: No Plan ID Supplied.
+Stack Trace:    at FTPAutoFilePost.Program.Main(String[] args) in C:\Joleen FTP issue\FTPAutoFilePost\Program.cs:line 86
+

@@ -1,0 +1,34 @@
+----------------------------------------------------------
+Date: 7/2/2012 12:34:15 AM
+Source: System
+Message: Server does not support secure connections.
+Stack Trace:    at System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   at System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   at System.Net.Mail.SmtpClient.GetConnection()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at FTPAutoFilePost.Program.SendEMail() in D:\LiveProgram\New Folder\FTPAutoFilePost\FTPAutoFilePost\Program.cs:line 71
+   at FTPAutoFilePost.Program.Main(String[] args) in D:\LiveProgram\New Folder\FTPAutoFilePost\FTPAutoFilePost\Program.cs:line 38
+
+----------------------------------------------------------
+Date: 7/2/2012 12:38:52 AM
+Source: System
+Message: Server does not support secure connections.
+Stack Trace:    at System.Net.Mail.SmtpConnection.GetConnection(String host, Int32 port)
+   at System.Net.Mail.SmtpTransport.GetConnection(String host, Int32 port)
+   at System.Net.Mail.SmtpClient.GetConnection()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at FTPAutoFilePost.Program.SendEMail() in D:\LiveProgram\New Folder\FTPAutoFilePost\FTPAutoFilePost\Program.cs:line 71
+   at FTPAutoFilePost.Program.Main(String[] args) in D:\LiveProgram\New Folder\FTPAutoFilePost\FTPAutoFilePost\Program.cs:line 38
+
+----------------------------------------------------------
+Date: 7/2/2012 12:41:48 AM
+Source: FTPAutoFilePost
+Message: The directory 'E:\FTP\LocalUser\Outbound\' does not exist.
+Stack Trace:    at FTPAutoFilePost.Program.Main(String[] args) in D:\LiveProgram\New Folder\FTPAutoFilePost\FTPAutoFilePost\Program.cs:line 26
+
+----------------------------------------------------------
+Date: 7/2/2012 12:42:29 AM
+Source: FTPAutoFilePost
+Message: The directory 'E:\FTP\LocalUser\Outbound\' does not exist.
+Stack Trace:    at FTPAutoFilePost.Program.Main(String[] args) in D:\LiveProgram\New Folder\FTPAutoFilePost\FTPAutoFilePost\Program.cs:line 26
+

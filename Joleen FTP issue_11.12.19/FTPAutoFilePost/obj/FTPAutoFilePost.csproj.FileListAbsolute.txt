@@ -1,0 +1,15 @@
+E:\CSharp\v2.0\FTPAutoFilePost\FTPAutoFilePost\bin\Debug\FTPAutoFilePost.exe.config
+E:\CSharp\v2.0\FTPAutoFilePost\FTPAutoFilePost\obj\Debug\ResolveAssemblyReference.cache
+E:\CSharp\v2.0\FTPAutoFilePost\FTPAutoFilePost\bin\Debug\FTPAutoFilePost.exe
+E:\CSharp\v2.0\FTPAutoFilePost\FTPAutoFilePost\bin\Debug\FTPAutoFilePost.pdb
+E:\CSharp\v2.0\FTPAutoFilePost\FTPAutoFilePost\obj\Debug\FTPAutoFilePost.exe
+E:\CSharp\v2.0\FTPAutoFilePost\FTPAutoFilePost\obj\Debug\FTPAutoFilePost.pdb
+D:\Clients\Verifpoint\Verifpoint Latest\Source Code\Programs\FTPAutoFilePost\FTPAutoFilePost\bin\Debug\FTPAutoFilePost.exe.config
+D:\Clients\Verifpoint\Verifpoint Latest\Source Code\Programs\FTPAutoFilePost\FTPAutoFilePost\obj\Debug\FTPAutoFilePost.exe
+D:\Clients\Verifpoint\Verifpoint Latest\Source Code\Programs\FTPAutoFilePost\FTPAutoFilePost\obj\Debug\FTPAutoFilePost.pdb
+D:\LiveProgram\New Folder\FTPAutoFilePost\FTPAutoFilePost\bin\Debug\FTPAutoFilePost.exe.config
+D:\LiveProgram\New Folder\FTPAutoFilePost\FTPAutoFilePost\bin\Debug\FTPAutoFilePost.exe
+D:\LiveProgram\New Folder\FTPAutoFilePost\FTPAutoFilePost\bin\Debug\FTPAutoFilePost.pdb
+D:\LiveProgram\New Folder\FTPAutoFilePost\FTPAutoFilePost\obj\Debug\ResolveAssemblyReference.cache
+D:\LiveProgram\New Folder\FTPAutoFilePost\FTPAutoFilePost\obj\Debug\FTPAutoFilePost.exe
+D:\LiveProgram\New Folder\FTPAutoFilePost\FTPAutoFilePost\obj\Debug\FTPAutoFilePost.pdb

@@ -1,0 +1,9 @@
+----------------------------------------------------------
+Date: 11/12/2019 12:42:01 AM
+Source: mscorlib
+Message: The process cannot access the file '\\vp-new\LocalUser\OMV\Outbound\11112019_CredData.txt' because it is being used by another process.
+Stack Trace:    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at FTPAutoFilePost.Program.Main(String[] args) in C:\Joleen FTP issue\FTPAutoFilePost\Program.cs:line 63
+

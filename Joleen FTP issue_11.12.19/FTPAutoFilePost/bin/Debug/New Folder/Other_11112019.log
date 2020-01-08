@@ -1,0 +1,19 @@
+----------------------------------------------------------
+Date: 11/11/2019 3:24:04 AM
+Source: System
+Message: Mailbox unavailable. The server response was: 5.7.60 SMTP; Client does not have permissions to send as this sender
+Stack Trace:    at System.Net.Mail.DataStopCommand.CheckResponse(SmtpStatusCode statusCode, String serverResponse)
+   at System.Net.Mail.SmtpConnection.OnClose(Object sender, EventArgs args)
+   at System.Net.ClosableStream.Close()
+   at System.Net.Mail.MailWriter.Close()
+   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at FTPAutoFilePost.AppHelper.SendErrorMail(Exception E, String Notes) in D:\Projects\Deployed\FTPAutoFilePost\FTPAutoFilePost\AppHelper.cs:line 116
+   at FTPAutoFilePost.AppHelper.LogError(Exception E) in D:\Projects\Deployed\FTPAutoFilePost\FTPAutoFilePost\AppHelper.cs:line 45
+----------------------------------------------------------
+
+----------------------------------------------------------
+Date: 11/11/2019 3:24:04 AM
+Source: FTPAutoFilePost
+Message: No Plan ID Supplied.
+Stack Trace:    at FTPAutoFilePost.Program.Main(String[] args) in D:\Projects\Deployed\FTPAutoFilePost\FTPAutoFilePost\Program.cs:line 44
+

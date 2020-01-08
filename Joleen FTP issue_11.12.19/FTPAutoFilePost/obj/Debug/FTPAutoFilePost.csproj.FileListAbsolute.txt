@@ -1,0 +1,20 @@
+D:\zahid\Zahid\Vp-Issue pages\Joleen FTP issue\FTPAutoFilePost\bin\Debug\FTPAutoFilePost.exe.config
+D:\zahid\Zahid\Vp-Issue pages\Joleen FTP issue\FTPAutoFilePost\obj\Debug\FTPAutoFilePost.exe
+D:\zahid\Zahid\Vp-Issue pages\Joleen FTP issue\FTPAutoFilePost\obj\Debug\FTPAutoFilePost.pdb
+D:\Projects\Joleen FTP issue\FTPAutoFilePost\bin\Debug\FTPAutoFilePost.exe
+D:\Projects\Joleen FTP issue\FTPAutoFilePost\bin\Debug\FTPAutoFilePost.pdb
+D:\Projects\Joleen FTP issue\FTPAutoFilePost\bin\Debug\FTPAutoFilePost.exe.config
+D:\Projects\Joleen FTP issue\FTPAutoFilePost\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Joleen FTP issue\FTPAutoFilePost\obj\Debug\FTPAutoFilePost.exe
+D:\Projects\Joleen FTP issue\FTPAutoFilePost\obj\Debug\FTPAutoFilePost.pdb
+C:\Joleen FTP issue\FTPAutoFilePost\bin\Debug\FTPAutoFilePost.exe.config
+C:\Joleen FTP issue\FTPAutoFilePost\bin\Debug\FTPAutoFilePost.exe
+C:\Joleen FTP issue\FTPAutoFilePost\bin\Debug\FTPAutoFilePost.pdb
+C:\Joleen FTP issue\FTPAutoFilePost\obj\Debug\FTPAutoFilePost.exe
+C:\Joleen FTP issue\FTPAutoFilePost\obj\Debug\FTPAutoFilePost.pdb
+C:\Users\software\Desktop\Joleen FTP issue_11.12.19\FTPAutoFilePost\bin\Debug\FTPAutoFilePost.exe.config
+C:\Users\software\Desktop\Joleen FTP issue_11.12.19\FTPAutoFilePost\obj\Debug\FTPAutoFilePost.exe
+C:\Users\software\Desktop\Joleen FTP issue_11.12.19\FTPAutoFilePost\obj\Debug\FTPAutoFilePost.pdb
+C:\Users\software\Desktop\Important cmd\Joleen FTP issue_11.12.19\FTPAutoFilePost\bin\Debug\FTPAutoFilePost.exe.config
+C:\Users\software\Desktop\Important cmd\Joleen FTP issue_11.12.19\FTPAutoFilePost\obj\Debug\FTPAutoFilePost.exe
+C:\Users\software\Desktop\Important cmd\Joleen FTP issue_11.12.19\FTPAutoFilePost\obj\Debug\FTPAutoFilePost.pdb
